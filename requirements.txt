@@ -1,0 +1,6 @@
+sentence-transformers>=6.1
+transformers>=5.19
+faster-whisper
+soundfile
+scipy
+requests
